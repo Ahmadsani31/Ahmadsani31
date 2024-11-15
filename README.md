@@ -3,18 +3,29 @@
 I am a web developer or full stack developer in the PHP programming language using the Laravel and CodeIgniter frameworks, but I am also learning new things in programming such as JavaScript with React JS or React Native.
 
 - 📫 How to reach me: email me [ahmaddarma0@gmail.com](mailto:ahmaddarma0@gmail.com).
+
+## :hammer_and_wrench: Languages and Tools:
+<div>
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/vscode.png?raw=true" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/github.png?raw=true" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/php.png?raw=true" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/mysql.png?raw=true" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/laravel.png?raw=true" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/codeigniter.png?raw=true" title="Codeigniter" alt="Codeigniter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/bootstrap.png?raw=true" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/html-5.png?raw=true" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/css.png?raw=true" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/javascript.png?raw=true" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/npm.png?raw=true" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/reactjs.png?raw=true" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/vuejs.png?raw=true" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+</div>
+ 
+  
 <!--
 **Ahmadsani31/Ahmadsani31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/bagusfe" />
-</p>
- 
+
 
 Here are some ideas to get you started:
 
