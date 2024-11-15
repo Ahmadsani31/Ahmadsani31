@@ -1,5 +1,4 @@
-## Hi there 👋, I'm Ahmad Darma sani
-# you can call me ``Darma``
+## Hi there 👋, I'm Ahmad Darma sani, you can call me ``Darma``
 
 I am a web developer or full stack developer in the PHP programming language using the Laravel and CodeIgniter frameworks, but I am also learning new things in programming such as JavaScript with React JS or React Native.
 
