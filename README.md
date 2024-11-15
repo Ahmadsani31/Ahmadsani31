@@ -20,7 +20,13 @@ I am a web developer or full stack developer in the PHP programming language usi
   <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/reactjs.png?raw=true" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Ahmadsani31/Ahmadsani31/blob/main/assets/vuejs.png?raw=true" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
 </div>
- 
+
+### Let's connect!
+<p>
+    <a href="https://www.linkedin.com/in/ahmad-darma-sani" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/ahmad_darma_sani-darma?style=for-the-badge&logo=linkedin&labelColor=10302f&color=0a66c2"></a>
+    <a href="https://medium.com/@bagusfe" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/ads3196-darma?style=for-the-badge&logo=instagram&labelColor=10302f&color=f50c52"></a>
+    <a href="https://paypal.me/bumbuum" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Ahmadsani-darma?style=for-the-badge&logo=paypal&labelColor=10302f&color=142d8f"></a>
+</p>
   
 <!--
 **Ahmadsani31/Ahmadsani31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
